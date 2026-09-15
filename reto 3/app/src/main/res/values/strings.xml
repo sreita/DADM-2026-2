@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Android Tic-Tac-Toe</string>
+    <string name="first_human">You go first.</string>
+    <string name="first_computer">Android goes first.</string>
+    <string name="turn_human">Your turn.</string>
+    <string name="turn_computer">Android\'s turn</string>
+    <string name="result_tie">It\'s a tie.</string>
+    <string name="result_human_wins">You won!</string>
+    <string name="result_computer_wins">Android won!</string>
+    <string name="new_game">New Game</string>
+    <string name="more_options">More options</string>
+    <string name="player_human">You</string>
+    <string name="player_computer">Android</string>
+    <string name="score_human">Human</string>
+    <string name="score_ties">Ties</string>
+    <string name="score_computer">Android</string>
+    <string name="cell_description">Cell %1$d: %2$s</string>
+    <string name="cell_empty">empty</string>
+</resources>

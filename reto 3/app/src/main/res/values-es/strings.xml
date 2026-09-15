@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Triki Android</string>
+    <string name="first_human">Empiezas tú.</string>
+    <string name="first_computer">Empieza Android.</string>
+    <string name="turn_human">Tu turno.</string>
+    <string name="turn_computer">Turno de Android</string>
+    <string name="result_tie">¡Empate!</string>
+    <string name="result_human_wins">¡Ganaste!</string>
+    <string name="result_computer_wins">¡Ganó Android!</string>
+    <string name="new_game">Nuevo juego</string>
+    <string name="more_options">Más opciones</string>
+    <string name="player_human">Tú</string>
+    <string name="player_computer">Android</string>
+    <string name="score_human">Humano</string>
+    <string name="score_ties">Empates</string>
+    <string name="score_computer">Android</string>
+    <string name="cell_description">Casilla %1$d: %2$s</string>
+    <string name="cell_empty">vacía</string>
+</resources>
