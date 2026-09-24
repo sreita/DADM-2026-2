@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Triki Android</string>
+    <string name="first_human">Empiezas tú.</string>
+    <string name="first_computer">Empieza Android.</string>
+    <string name="turn_human">Tu turno.</string>
+    <string name="turn_computer">Turno de Android</string>
+    <string name="result_tie">¡Empate!</string>
+    <string name="result_human_wins">¡Ganaste!</string>
+    <string name="result_computer_wins">¡Ganó Android!</string>
+    <string name="new_game">Nuevo juego</string>
+    <string name="more_options">Más opciones</string>
+    <string name="player_human">Tú</string>
+    <string name="player_computer">Android</string>
+    <string name="score_human">Humano</string>
+    <string name="score_ties">Empates</string>
+    <string name="score_computer">Android</string>
+    <string name="cell_description">Casilla %1$d: %2$s</string>
+    <string name="cell_empty">vacía</string>
+    <string name="difficulty_menu">Dificultad</string>
+    <string name="about_menu">Acerca de</string>
+    <string name="quit_menu">Salir</string>
+    <string name="difficulty_choose">Elige un nivel de dificultad:</string>
+    <string name="difficulty_easy">Fácil</string>
+    <string name="difficulty_harder">Difícil</string>
+    <string name="difficulty_expert">Experto</string>
+    <string name="difficulty_impossible">Imposible</string>
+    <string name="difficulty_current">Nivel: %1$s</string>
+    <string name="quit_question">¿Seguro que quieres salir?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="ok">Aceptar</string>
+    <string name="about_title">Triki</string>
+    <string name="about_author">Por Sergio Reita</string>
+    <string name="about_body">Elige entre cuatro niveles de dificultad. ¡No dejes que Android te gane!</string>
+    <string name="about_course">Desarrollo de Aplicaciones para Dispositivos Móviles — Universidad Nacional de Colombia</string>
+</resources>
