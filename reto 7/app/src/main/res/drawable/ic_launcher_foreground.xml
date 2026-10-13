@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Board grid -->
+    <path
+        android:pathData="M46,30V78 M62,30V78 M30,46H78 M30,62H78"
+        android:strokeColor="#4A5490"
+        android:strokeWidth="3"
+        android:strokeLineCap="round" />
+    <!-- Green X in the top-left cell -->
+    <path
+        android:pathData="M34,34L42,42 M42,34L34,42"
+        android:strokeColor="#34E39A"
+        android:strokeWidth="5"
+        android:strokeLineCap="round" />
+    <!-- Green X in the center cell -->
+    <path
+        android:pathData="M50,50L58,58 M58,50L50,58"
+        android:strokeColor="#34E39A"
+        android:strokeWidth="5"
+        android:strokeLineCap="round" />
+    <!-- Red O in the top-right cell -->
+    <path
+        android:pathData="M74,38a5,5 0,1 1,-10 0a5,5 0,1 1,10 0"
+        android:strokeColor="#FF5C7A"
+        android:strokeWidth="5"
+        android:strokeLineCap="round" />
+    <!-- Red O in the bottom-left cell -->
+    <path
+        android:pathData="M43,70a5,5 0,1 1,-10 0a5,5 0,1 1,10 0"
+        android:strokeColor="#FF5C7A"
+        android:strokeWidth="5"
+        android:strokeLineCap="round" />
+</vector>

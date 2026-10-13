@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "426523886022",
+    "project_id": "juego-triqui---dadm-2026-2",
+    "storage_bucket": "juego-triqui---dadm-2026-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426523886022:android:bc875643ca7e2cba2db2c7",
+        "android_client_info": {
+          "package_name": "co.edu.unal.tictactoe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiOV2CuLTtTn7bRWFYijU3pzSKOGIj1TI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
